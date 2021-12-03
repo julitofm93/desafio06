@@ -1,0 +1,30 @@
+{
+  "name": "handlebars",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-handlebars": "^6.0.2",
+    "handlebars": "^4.7.7",
+    "moment": "^2.29.1",
+    "multer": "^1.4.3",
+    "socket.io": "^4.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julitofm93/desafio04.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julitofm93/desafio04/issues"
+  },
+  "homepage": "https://github.com/julitofm93/desafio04#readme",
+  "description": ""
+}

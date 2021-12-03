@@ -1,0 +1,20 @@
+[
+  {
+    "id": 5,
+    "title": "Cuaderno",
+    "price": "120",
+    "thumbnail": "http://localhost:8080/images/1638493802478image.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Escuadra",
+    "price": "90",
+    "thumbnail": "http://localhost:8080/images/1638493819633image.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Lapiz",
+    "price": "50",
+    "thumbnail": "http://localhost:8080/images/1638493834143image.jpg"
+  }
+]
